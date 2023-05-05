@@ -1,0 +1,134 @@
+body
+{
+     margin: 0;
+}
+.h1-style
+{
+    font-weight: bold;
+    font-size: 50px;
+    color: rgb(255, 0, 200);
+    margin-top: 0;
+}
+.h2-style
+{
+    margin-top: 60px;
+    margin-bottom: 0;
+    font-size: 35px;
+     
+}
+p
+{
+    font-family: 'Poppins', sans-serif;
+    color: gray;
+     
+}
+.link-button
+{
+    text-decoration: none;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    font-weight: 700;
+}
+.top-banner
+{
+     background-image: url(images/header-bg.png);
+      height: 700px;
+      
+     background-repeat: no-repeat;
+
+}
+.biograpy
+{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 700px;
+}
+    
+.half-width
+{
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 2%;
+    float: left;
+ }
+
+     
+
+.half-width img
+{
+    width: 100%;
+}
+.section-3
+{
+     text-align: center;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+    height: 300px;
+}
+ 
+.latest-work
+{
+    margin-left: 10%;
+    padding-left: 3%;
+     
+    
+}
+.latest-work img
+{
+    width: 25%;
+    float: left;
+    margin-left: 3%;
+
+}
+.section-4
+{
+   width: 50%;
+   text-align: center;
+   margin-left: 25%;
+     
+}
+.section-4-massage-link-button
+{
+  
+    text-decoration: none;
+    background-color: rgb(255, 62, 168);
+    border-radius: 5px;
+    padding: 10px;
+    
+    font-weight: 700;
+ 
+}
+  .massage 
+  {
+    color: white;
+  }
+  .button 
+  {
+    color: white;
+    text-decoration: none;
+    font-size: 30px;
+
+  }
+.client
+{
+     width: 50%;
+    margin-left: 25%;
+    padding-bottom: 40px;
+}
+h6
+{
+    margin-top: 0; 
+    color: gray;
+}
+h4
+{
+    margin-bottom: 0; 
+}
+footer
+{
+    text-align: center;
+    font-size: 12px;
+    margin-top: 40px;
+}
